@@ -1,0 +1,52 @@
+01
+apple apple_1 apple_2 apple_3 apple_4 apple_5
+ball ball_1 ball_2 ball_3 ball_4 ball_5 ball_6 ball_7
+banana banana_1 banana_2 banana_3 banana_4
+bell_pepper bell_pepper_1 bell_pepper_2 bell_pepper_3 bell_pepper_4 bell_pepper_5 bell_pepper_6
+binder binder_1 binder_2 binder_3
+bowl bowl_1 bowl_2 bowl_3 bowl_4 bowl_5 bowl_6
+calculator calculator_1 calculator_2 calculator_3 calculator_4 calculator_5
+camera camera_1 camera_2 camera_3
+cap cap_1 cap_2 cap_3 cap_4
+cell_phone cell_phone_1 cell_phone_2 cell_phone_3 cell_phone_4 cell_phone_5
+cereal_box cereal_box_1 cereal_box_2 cereal_box_3 cereal_box_4 cereal_box_5
+coffee_mug coffee_mug_1 coffee_mug_2 coffee_mug_3 coffee_mug_4 coffee_mug_5 coffee_mug_6 coffee_mug_7 coffee_mug_8
+comb comb_1 comb_2 comb_3 comb_5
+dry_battery dry_battery_1 dry_battery_2 dry_battery_3 dry_battery_4 dry_battery_5 dry_battery_6
+flashlight flashlight_1 flashlight_2 flashlight_3 flashlight_4 flashlight_5
+food_bag food_bag_1 food_bag_2 food_bag_3 food_bag_4 food_bag_5 food_bag_6 food_bag_7 food_bag_8
+food_box food_box_1 food_box_10 food_box_11 food_box_12 food_box_2 food_box_3 food_box_4 food_box_5 food_box_6 food_box_7 food_box_8 food_box_9
+food_can food_can_1 food_can_10 food_can_11 food_can_12 food_can_13 food_can_14 food_can_2 food_can_3 food_can_4 food_can_5 food_can_6 food_can_7 food_can_8 food_can_9
+food_cup food_cup_1 food_cup_2 food_cup_3 food_cup_4 food_cup_5
+food_jar food_jar_1 food_jar_2 food_jar_3 food_jar_4 food_jar_5 food_jar_6
+garlic garlic_1 garlic_2 garlic_3 garlic_4 garlic_5 garlic_6 garlic_7
+glue_stick glue_stick_1 glue_stick_2 glue_stick_3 glue_stick_4 glue_stick_5 glue_stick_6
+greens greens_1 greens_2 greens_3 greens_4
+hand_towel hand_towel_1 hand_towel_2 hand_towel_3 hand_towel_4 hand_towel_5
+instant_noodles instant_noodles_1 instant_noodles_2 instant_noodles_3 instant_noodles_4 instant_noodles_5 instant_noodles_6 instant_noodles_7 instant_noodles_8
+keyboard keyboard_1 keyboard_2 keyboard_3 keyboard_4 keyboard_5
+kleenex kleenex_1 kleenex_2 kleenex_3 kleenex_4 kleenex_5
+lemon lemon_1 lemon_2 lemon_3 lemon_4 lemon_5 lemon_6
+lightbulb lightbulb_1 lightbulb_2 lightbulb_3 lightbulb_4
+lime lime_1 lime_2 lime_3 lime_4
+marker marker_1 marker_2 marker_3 marker_4 marker_5 marker_6 marker_7 marker_8 marker_9
+mushroom mushroom_1 mushroom_2 mushroom_3
+notebook notebook_1 notebook_2 notebook_3 notebook_4 notebook_5
+onion onion_1 onion_2 onion_3 onion_4 onion_5 onion_6
+orange orange_1 orange_2 orange_3 orange_4
+peach peach_1 peach_2 peach_3
+pear pear_1 pear_2 pear_3 pear_4 pear_7 pear_8
+pitcher pitcher_1 pitcher_2 pitcher_3
+plate plate_1 plate_2 plate_3 plate_4 plate_5 plate_6 plate_7
+pliers pliers_1 pliers_2 pliers_3 pliers_4 pliers_5 pliers_6
+potato potato_1 potato_2 potato_3 potato_4 potato_5 potato_6
+rubber_eraser rubber_eraser_1 rubber_eraser_2 rubber_eraser_3 rubber_eraser_4
+scissors scissors_1 scissors_2 scissors_3 scissors_4
+shampoo shampoo_1 shampoo_2 shampoo_3 shampoo_4 shampoo_5 shampoo_6
+soda_can soda_can_1 soda_can_2 soda_can_3 soda_can_4 soda_can_5 soda_can_6
+sponge sponge_1 sponge_10 sponge_11 sponge_12 sponge_2 sponge_3 sponge_4 sponge_5 sponge_6 sponge_7 sponge_8 sponge_9
+stapler stapler_1 stapler_2 stapler_3 stapler_4 stapler_5 stapler_6 stapler_7 stapler_8
+tomato tomato_1 tomato_2 tomato_3 tomato_4 tomato_5 tomato_6 tomato_7 tomato_8
+toothbrush toothbrush_1 toothbrush_2 toothbrush_3 toothbrush_4 toothbrush_5
+toothpaste toothpaste_1 toothpaste_2 toothpaste_3 toothpaste_4 toothpaste_5
+water_bottle water_bottle_1 water_bottle_10 water_bottle_2 water_bottle_3 water_bottle_4 water_bottle_5 water_bottle_6 water_bottle_7 water_bottle_9
