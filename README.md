@@ -45,17 +45,17 @@ Instructions
 Trainning Classes
 =======================
 
-Apple
-Ball
-Banana
-Camera
-Cap
-Cell_phone
-Cereal_box
-Coffe_mug
-Keyboard
-Lemon
-Notebook
-Orange
-Soda_can
-Toothpaste
+1. Apple
+2. Ball
+3. Banana
+4. Camera
+5. Cap
+6. Cell_phone
+7. Cereal_box
+8. Coffe_mug
+9. Keyboard
+10. Lemon
+11. Notebook
+12. Orange
+13. Soda_can
+14. Toothpaste
