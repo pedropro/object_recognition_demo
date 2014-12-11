@@ -1,4 +1,4 @@
-3D Object recognition demo for Kinect v1
+3D Object Recognition Demo for Kinect v1
 =======================
 
 This released application demonstrates our classification approach to objects in 'real' indoor scenes, by relying
