@@ -1,6 +1,3 @@
-object_recognition_demo
-=======================
-
 3D Object recognition demo for Kinect v1
 =======================
 
@@ -30,7 +27,6 @@ HW Requirements
 - Microsoft Kinect v1 sensor
 - 64-bit (x64) fast processor
 - At least 4 GB of RAM
-- 
 
 Instructions
 =======================
