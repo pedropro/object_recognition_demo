@@ -32,7 +32,7 @@ Instructions
 =======================
 
 1. Install Kinect SDK 1.8: http://www.microsoft.com/en-us/download/details.aspx?id=40278
-2. Plug in Kinect and wait for drivers to be installed.
+2. Plug the Kinect into the PC and wait for drivers to be installed.
 4. Prepare the setup: Grap one or two objects from the list below and place them sparsely on a large plane.
    Point the Kinect towards the object(s) from a distance between 0.4-1.6 m.
 3. Run 'RealDemo64.bat'.
