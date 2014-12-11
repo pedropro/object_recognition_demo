@@ -18,7 +18,7 @@ In International Symposium on Visual Computing, 2013.
 
 If you are interested in the used dataset, refer to: 
 
-[3] K. Lai, L. Bo, X. Ren, and Dieter Fox. A Large-Scale Hierarchical Multi-View RGB-D Object Dataset 
+[3] K. Lai, L. Bo, X. Ren, and Dieter Fox. A Large-Scale Hierarchical Multi-View RGB-D Object Dataset.
 In IEEE International Conference on Robotics and Automation (ICRA), May 2011. 
 
 HW Requirements
