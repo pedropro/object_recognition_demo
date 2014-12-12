@@ -1,7 +1,8 @@
 3D Object Recognition Demo for Kinect v1
 =======================
+*Author: Pedro F. Proença @ ISCTE-IUL
 
-This released application demonstrates our classification approach to objects in 'real' indoor scenes, which relies
+This application demonstrates our classification approach to objects in 'real' indoor scenes, which relies
 only on the depth information captured by the Kinect sensor. For the sake of simplicity, this demonstration is limited to
 a predefined set of 14 classes (listed below). The respective training data [3] was obtained from: http://rgbd-dataset.cs.washington.edu/
 
@@ -10,7 +11,7 @@ This is the same software that was used in: https://www.youtube.com/watch?v=I_6s
 Unfortunately, our current system assumes that the objects are separated from each others by at least 3 cm, and above a large planar surface (e.g. table, floor).
 Recall that this is not a detection system! Thus, objects that do not belong to the 14-list of classes may cause unexpected behaviours.
 
-To understand our classification and scene processing pipeline, please refere respectively to:
+To understand our classification and scene processing pipeline, please refer respectively to:
 
 [1] P.F. Proença, F. Gaspar, and M. Dias. Good appearance and shape descriptors for object category recognition.
 In International Symposium on Visual Computing, 2013.
