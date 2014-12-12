@@ -1,7 +1,7 @@
 3D Object Recognition Demo for Kinect v1
 =======================
 
-This released application demonstrates our classification approach to objects in 'real' indoor scenes, by relying
+This released application demonstrates our classification approach to objects in 'real' indoor scenes, which relies
 only on the depth information captured by the Kinect sensor. For the sake of simplicity, this demonstration is limited to
 a predefined set of 14 classes (listed below). The respective training data [3] was obtained from: http://rgbd-dataset.cs.washington.edu/
 
