@@ -1,6 +1,9 @@
 3D Object Recognition Demo for Kinect v1
 =======================
-*Author: Pedro F. Proença @ ISCTE-IUL
+
+**This project is outdated and not maintained anymore**
+
+*Author: Pedro F. Proença
 
 This application demonstrates our classification approach to objects in 'real' indoor scenes, which relies
 only on the depth information captured by the Kinect sensor. For the sake of simplicity, this demonstration is limited to
